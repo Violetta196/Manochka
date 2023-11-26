@@ -1,5 +1,5 @@
 .items {
-    display: flex;                                      /* Я тут щось змінив */
+    display: flex;                                      
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -8,8 +8,8 @@
     margin-top: 40px;
 }
 
-h1{
-    text-align: center;
+.zagolovok {
+    text-align: center
 }
 
 .history img {
