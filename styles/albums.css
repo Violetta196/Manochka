@@ -50,7 +50,7 @@ h2 {
     }
 
     .albums .album .name {   
-        font-size: 20px;
+        font-size: 13px;
     }
 }
  
@@ -74,6 +74,6 @@ h2 {
     }
 
     .albums .album .name {   
-        font-size: 15px;
+        font-size: 10px;
     }
 }
