@@ -172,8 +172,9 @@ iframe {
     }
   
     .info .text {
-      width: 90%;
-      font-size: 30px;
+      width: 80%;
+      font-size: 20px;
+      
     }
   
     h1 {
@@ -202,15 +203,15 @@ iframe {
     }
   
     .container article header {
-      font-size: 30px;
+      font-size: 25px;
     }
   
     .container article main {
-      font-size: 30px;
+      font-size: 20px;
     }
   
     .container article footer {
-      font-size: 25px;
+      font-size: 15px;
     }
   
     .footer {
@@ -227,11 +228,11 @@ iframe {
     }
   
     .footer .contacts .address {
-      font-size: 30px;
+      font-size: 18px;
     }
     .footer img {
-     height: 500px;
-      width: 500px;
+     height: 180px;
+      width: 180px;
     }
   }
      
@@ -264,7 +265,7 @@ iframe {
   
     .info .text {
       width: 75%;
-      font-size: 15px;
+      font-size: 10px;
     }
   
     h1 {
@@ -297,11 +298,11 @@ iframe {
     }
   
     .container article main {
-      font-size: 15px;
+      font-size: 10px;
     }
   
     .container article footer {
-      font-size: 13px;
+      font-size: 7px;
     }
   
     .footer {
